@@ -1,0 +1,5 @@
+C:\Users\utter\Desktop\Development\repos\TMI\bin\Debug\netcoreapp3.1\TMI.deps.json
+C:\Users\utter\Desktop\Development\repos\TMI\bin\Debug\netcoreapp3.1\TMI.dll
+C:\Users\utter\Desktop\Development\repos\TMI\obj\Debug\netcoreapp3.1\TMI.AssemblyInfoInputs.cache
+C:\Users\utter\Desktop\Development\repos\TMI\obj\Debug\netcoreapp3.1\TMI.AssemblyInfo.cs
+C:\Users\utter\Desktop\Development\repos\TMI\obj\Debug\netcoreapp3.1\TMI.csprojAssemblyReference.cache
